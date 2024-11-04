@@ -1,0 +1,18 @@
+node_modules
+.env
+.env.*
+.env_*
+coverage
+coverage.json
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+*_merged.sol
+
+coverage
+coverage.json
+
+contracts
